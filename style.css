@@ -24,6 +24,7 @@ h1 {
   background-color: #fff;
   bottom: 0;
   width: 100%;
+  position: fixed;
 }
 
 .img {
