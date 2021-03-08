@@ -25,3 +25,8 @@ h1 {
   position: fixed;
   bottom: 0;
 }
+
+.img {
+  width: 250px;
+  height: 200px;
+}
