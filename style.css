@@ -1,0 +1,27 @@
+body {
+  background: url(laptop.jpg) no-repeat center center fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  font-family: 'Bree Serif', serif;
+}
+
+.rowHeight {
+  height: 500px;
+}
+
+
+h1 {
+  color: #000;
+  font-size: 2.5em;
+}
+
+.bg {
+  background-color: #c1c1c1;
+  opacity: 0.8;
+}
+
+.footer {
+  background-color: #fff;
+  position: fixed;
+  bottom: 0;
+}
